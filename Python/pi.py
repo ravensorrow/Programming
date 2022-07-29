@@ -13,7 +13,6 @@ __author__ = "Christopher Brennan"
 __copyright__ = "Copyright 2022, The Grunk Project"
 __credits__ = ["Christopher Brennan" "w3resource.com"]
 __license__ = "GPL"
-__version__ = "0.1"
 __maintainer__ = "Christopher Brennan"
 __email__ = "chris@xaerolimit.net"
 __status__ = "Alpha Testing"
