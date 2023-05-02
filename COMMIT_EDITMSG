@@ -1,0 +1,57 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Programming
+#	renamed:    .DS_Store -> Rust-Behemoth-II/._HelloWorld
+#	new file:   Rust-Behemoth-II/._guessing_game
+#	new file:   Rust-Behemoth-II/._hello_cargo
+#	new file:   Rust-Behemoth-II/._variables
+#	new file:   Rust-Behemoth-II/guessing_game/._.git
+#	new file:   Rust-Behemoth-II/guessing_game/._src
+#	new file:   Rust-Behemoth-II/guessing_game/._target
+#	new file:   Rust-Behemoth-II/guessing_game/target/._debug
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/._.fingerprint
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/._build
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/._deps
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/._examples
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/._incremental
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/.fingerprint/._guessing_game-5c97f38c8efdf5da
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/.fingerprint/._libc-2deda525669dde54
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/.fingerprint/._libc-ad8f03b62c0372aa
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/.fingerprint/._libc-b51753ba13d2d709
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/.fingerprint/._rand-f09e263a0957b5ff
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/.fingerprint/._rand_core-56dca793f4954c17
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/.fingerprint/._rand_core-635146dfab8c2819
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/build/._libc-2deda525669dde54
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/build/._libc-b51753ba13d2d709
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/build/libc-b51753ba13d2d709/._out
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/incremental/._guessing_game-23e0uc6svlt92
+#	new file:   Rust-Behemoth-II/guessing_game/target/debug/incremental/guessing_game-23e0uc6svlt92/._s-fv8a8c5jvx-1um34f4-1sxcim3jbx9j0
+#	new file:   Rust-Behemoth-II/hello_cargo/._.git
+#	new file:   Rust-Behemoth-II/hello_cargo/._src
+#	new file:   Rust-Behemoth-II/hello_cargo/._target
+#	new file:   Rust-Behemoth-II/hello_cargo/target/._debug
+#	new file:   Rust-Behemoth-II/hello_cargo/target/debug/._.fingerprint
+#	new file:   Rust-Behemoth-II/hello_cargo/target/debug/._build
+#	new file:   Rust-Behemoth-II/hello_cargo/target/debug/._deps
+#	new file:   Rust-Behemoth-II/hello_cargo/target/debug/._examples
+#	new file:   Rust-Behemoth-II/hello_cargo/target/debug/._incremental
+#	new file:   Rust-Behemoth-II/hello_cargo/target/debug/.fingerprint/._hello_cargo-1aa3789bab95006d
+#	new file:   Rust-Behemoth-II/hello_cargo/target/debug/.fingerprint/._hello_cargo-65bd4e68837e258e
+#	new file:   Rust-Behemoth-II/hello_cargo/target/debug/deps/._hello_cargo.dSYM
+#	new file:   Rust-Behemoth-II/variables/._.git
+#	new file:   Rust-Behemoth-II/variables/._src
+#	new file:   Rust-Behemoth-II/variables/._target
+#	new file:   Rust-Behemoth-II/variables/target/._debug
+#	new file:   Rust-Behemoth-II/variables/target/debug/._.fingerprint
+#	new file:   Rust-Behemoth-II/variables/target/debug/._build
+#	new file:   Rust-Behemoth-II/variables/target/debug/._deps
+#	new file:   Rust-Behemoth-II/variables/target/debug/._examples
+#	new file:   Rust-Behemoth-II/variables/target/debug/._incremental
+#	new file:   Rust-Behemoth-II/variables/target/debug/deps/._variables.dSYM
+#
