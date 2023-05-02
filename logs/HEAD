@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 437ae1d2b2aea3801b4a146e7d7f575ebbdc8cdb chris@xaerolimit.net <grunk@Behemoth-II.localdomain> 1659074845 -0400	commit (initial): test commit from console
+437ae1d2b2aea3801b4a146e7d7f575ebbdc8cdb 29079b2796fb4e70541c0016e799628c3558334a Chris Brennan <xaero@xaerolimit.net> 1659074876 -0400	commit: First Commit
+29079b2796fb4e70541c0016e799628c3558334a 4619409a86cf5f6e24318142ab3f2e1a1dfb6eed chris@xaerolimit.net <grunk@Behemoth-II.localdomain> 1659074925 -0400	commit (amend): First Commit
+4619409a86cf5f6e24318142ab3f2e1a1dfb6eed 1583bd5fd4e2bc8d85f33888b5568ff1ba321b93 Chris Brennan <xaero@xaerolimit.net> 1659075177 -0400	commit: Test commit from Atom
+1583bd5fd4e2bc8d85f33888b5568ff1ba321b93 49c2b9ecc0a4d0afd071787324e992273a22a353 Chris Brennan <xaero@xaerolimit.net> 1659077007 -0400	commit: Another Test Commit from Atom
+49c2b9ecc0a4d0afd071787324e992273a22a353 49c2b9ecc0a4d0afd071787324e992273a22a353 Chris Brennan <xaero@xaerolimit.net> 1659077049 -0400	checkout: moving from master to origin
+49c2b9ecc0a4d0afd071787324e992273a22a353 49c2b9ecc0a4d0afd071787324e992273a22a353 Chris Brennan <xaero@xaerolimit.net> 1659077262 -0400	checkout: moving from origin to master
+49c2b9ecc0a4d0afd071787324e992273a22a353 239816fb60004a48e9d1ed88f193d91258884bb6 ravensorrow <chris@xaearolimit.net> 1672457013 -0500	commit: started using VSCode
+239816fb60004a48e9d1ed88f193d91258884bb6 7538a6cbfa32afea5ff09754c0710a1141d611d3 ravensorrow <chris@xaearolimit.net> 1672522385 -0500	commit: 1. Python Commenting examples
+7538a6cbfa32afea5ff09754c0710a1141d611d3 e7c65a9b9ce741cf9878f0143737d01050496cca ravensorrow <chris@xaearolimit.net> 1672536302 -0500	commit: Stepping further through this book
