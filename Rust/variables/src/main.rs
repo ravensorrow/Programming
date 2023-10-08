@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 use std::io;
 
 fn main() {
@@ -124,3 +125,11 @@ fn main() {
     println!("The value of the element at index {index} is: {element}");
 }
 
+=======
+fn main() {
+    let mut x = 5;
+    println!("The value of x is: {x}");
+    x = 6;
+    println!("The value of x is: {x}");
+}
+>>>>>>> 230214f2aa1505de4f9f7ac15d3bb9c5fb91b66e
