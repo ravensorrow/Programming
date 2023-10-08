@@ -1,1 +1,1 @@
-/Volumes/MacData/Users/chris/Library/CloudStorage/OneDrive-Personal/Programming/Rust/functions/target/debug/functions: /Volumes/MacData/Users/chris/Library/CloudStorage/OneDrive-Personal/Programming/Rust/functions/src/main.rs
+/Volumes/MacData/Users/chris/Programming/Rust/functions/target/debug/functions: /Volumes/MacData/Users/chris/Programming/Rust/functions/src/main.rs
