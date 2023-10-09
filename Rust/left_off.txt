@@ -1,1 +1,4 @@
-https://doc.rust-lang.org/book/ch03-03-how-functions-work.html
+1) https://doc.rust-lang.org/book/ch03-05-control-flow.html (summary)
+  2) Example 1: better Example
+    https://benjaminbrandt.com/converting-temperatures-in-rust/
+
