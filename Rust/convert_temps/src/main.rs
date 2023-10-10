@@ -83,6 +83,7 @@ fn get_user_temp() {
 fn main() {
     println!("Welcome to temperature converter!\n");
 
+    // sample_temps(); is commented out because it's not necessary.
     //sample_temps();
     get_user_temp();
 }
