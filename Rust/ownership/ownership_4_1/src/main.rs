@@ -77,3 +77,5 @@ fn calculate_length(s: String) -> (String, usize) {
     let length = s.len();   // len() retuns the length of a String.
     (s, length)
 }
+
+// Ch4.1 complete
