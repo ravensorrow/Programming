@@ -1,1 +1,8 @@
-/home/grunk/bin/gitup
+#!/bin/bash
+
+echo "Adding files for commit in current dir"
+git add *
+echo "Enter your single-line commit message"
+read COMMIT_MSG
+git commit -m "${COMMIT_MSG}"
+git push
