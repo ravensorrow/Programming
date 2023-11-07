@@ -1,6 +1,5 @@
-# Programming
-My various programming projects
+# Rust
 
-As of 2023, I'm currently teaching myself Rust in my free time.
+Stepping through the RUST manual at https://doc.rust-lang.org/book/
 
 11/07/2023: Ch4.2: References and Borrowing
