@@ -1,0 +1,16 @@
+fn main() {
+<<<<<<< HEAD
+    let s1 = String::from("hello!");
+    let len = calculate_length(&s1);
+=======
+    let s1 = String::from("hello");
+
+    let len = calculate_length(&s1);
+
+>>>>>>> 583b636bcf1e1453d42b302f1611479e6852d7e7
+    println!("The length of '{}' is {}.", s1, len);
+}
+
+fn calculate_length(s: &String) -> usize {
+    s.len()
+}
