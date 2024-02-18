@@ -1,3 +1,4 @@
+//Checking out Pulsar Editor's GIT functions
 #![allow(unused)]
 fn main() {
     struct Ipv4Addr {
@@ -14,7 +15,7 @@ fn main() {
     }
 
     let home = IpAddr::V4(127, 0, 0, 1);
-    
+
     let loopback = IpAddr::V6(String::from("::1"));
 
 }
@@ -27,12 +28,12 @@ enum Message {
 }
 
 struct QuitMessage; // unit struct
-struct MoveMessage { 
+struct MoveMessage {
     x: i32,
     y: i32,
 }
-struct WriteMessage(String); // tuple struct
-struct CHangeColorMessage(i32, i32, i32); // tuple struct
+struct WriteMessage(String);                // tuple struct
+struct CHangeColorMessage(i32, i32, i32);   // tuple struct
 
 fn main1() {
     enum Message {
