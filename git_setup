@@ -1,4 +1,4 @@
-git config --global user.name "Christopher Brennan"
-git config --global user.email "chris@xaerolimit.net"
+git config --global user.name "NAME"
+git config --global user.email "EMAIL"
 git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/bin/git-credential-manager.exe"
 
