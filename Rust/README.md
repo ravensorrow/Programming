@@ -12,3 +12,5 @@ Stepping through the RUST manual at https://doc.rust-lang.org/book/
     base I once had and stay on top of this again. I really would like to 
     finish it and I've even made some side notes on some project idea's to work 
     on in the future.
+* 2024/12/14: Restructured and cleaned up tree. Starting with Chapter 6, 
+    project names will be named more intelligently.
