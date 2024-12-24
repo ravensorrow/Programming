@@ -1,0 +1,6 @@
+$ mkdir -p "/home/grunk/Programming/Rust/computing_pi/target/debug/build/az-1ed0cc84e05293e1/out/try_track_caller"
+$ cd "/home/grunk/Programming/Rust/computing_pi/target/debug/build/az-1ed0cc84e05293e1/out/try_track_caller"
+$ printf '%s' "// try_tra"... > "/home/grunk/Programming/Rust/computing_pi/target/debug/build/az-1ed0cc84e05293e1/out/try_track_caller/try_track_caller.rs"
+$ cd "/home/grunk/Programming/Rust/computing_pi/target/debug/build/az-1ed0cc84e05293e1/out/try_track_caller" && "/home/grunk/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/rustc" "try_track_caller.rs" "--emit=dep-info,metadata" >& /dev/null
+cargo:rustc-cfg=track_caller
+$ rm -r "/home/grunk/Programming/Rust/computing_pi/target/debug/build/az-1ed0cc84e05293e1/out/try_track_caller"
