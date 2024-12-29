@@ -1,0 +1,6 @@
+[package]
+name = "vars_str_declarations"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
