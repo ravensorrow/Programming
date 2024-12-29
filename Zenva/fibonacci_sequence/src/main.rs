@@ -9,7 +9,7 @@ fn main() {
     let mut a: u64 = 0;
     let mut b: u64 = 1;
 
-    loop { if count  == 50 
+    loop { if count == 50 
         { 
             break; 
         } if count == 0 {
