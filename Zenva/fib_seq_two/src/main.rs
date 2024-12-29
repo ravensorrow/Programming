@@ -1,4 +1,6 @@
 fn main() {
+    /* Need error handling when there is no input given. */
+    
     let args: Vec<String> = std::env::args().collect();
 
     let mut a: u64 = 0;
