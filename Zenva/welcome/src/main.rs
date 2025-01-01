@@ -8,7 +8,7 @@ struct User {
 
 // Example 2: How to manipulate the struct
 fn main() {
-    let user1 = User {
+    let mut user1: User = User {
         active: true,
         username: String::from("SomeUserName123"),
         email: String::from("someone@example.com"),
@@ -45,7 +45,7 @@ fn main1() {
     // See main() for snipped functions
     // Depends on User struct.
 
-    let user2 = User {
+    let user2: User = User {
             active: user1.active,
             username: user1.username,
             email: String::from("another.email@example.com"),
@@ -59,7 +59,7 @@ fn main2() {
     // See main() for snipped functions
     // Depends on User struct
 
-    let user2 = User {
+    let user2: User = User {
         email: String::from("yet.another.email@example.com"),
         ..user1
     };
