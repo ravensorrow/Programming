@@ -132,4 +132,8 @@ fn main() {
     x = 6;
     println!("The value of x is: {x}");
 }
+<<<<<<< HEAD:Rust/Chapter 3 - Common Programming Concepts/variables/src/main.rs
 >>>>>>> 230214f2aa1505de4f9f7ac15d3bb9c5fb91b66e
+=======
+>>>>>>> 230214f (Added Variables and Mutability, Data Types and Functions)
+>>>>>>> 0dba5fc (rebase-cleanup):Rust/variables/src/main.rs
