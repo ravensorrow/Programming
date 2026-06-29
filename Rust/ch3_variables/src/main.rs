@@ -4,14 +4,14 @@ fn main() {
     let mut x = 5;
     println!("The value of x is: {x}");
     x = 6;
-    println!("The valiue of x is: {x}");
+    println!("The value of x is: {x}");
 
     let _y = 2.0;        // floating-point 64 bit
     let _z: f32 = 3.0;   // floating-point 32-bit
 
     {
         let x = x * 2;
-        println!("The value of x in the innter scope is: {x}");
+        println!("The value of x in the inner scope is: {x}");
         const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;
         println!("The total number of seconds in three hours is: {THREE_HOURS_IN_SECONDS}");
     }
@@ -109,23 +109,15 @@ fn tuple_types() {
 fn array_types() {
     let _q = [1, 2, 3, 4, 5];
     let _q = [3; 5];
-/*
-    let _months = ["January", "February", "March", "April", "May", "June", "July",
+    let months = ["January", "February", "March", "April", "May", "June", "July",
                    "August", "September", "October", "November", "December"];
-    /*
-    * This array and print statment does not work as epxected yet,
-    * and that is perfectly OK at this poinmt. I will come back to 
-    * fix it at a later date
-    */
-    println!("My birth months is {months}: {months.[8]}");   
-*/ 
-    
+    println!("My birth months is {}:", months[8]);
 
     let w: [i32; 6] = [0, 1, 2, 3, 4, 5];
     let _first = w[0];
     let _second = w[1];
 
-    println!("Please enter an array indexd.");
+    println!("Please enter an array index.");
 
     let mut index = String::new();
 
@@ -136,37 +128,27 @@ fn array_types() {
     let index: usize = index
         .trim()
         .parse()
-        .expect("Inded entered was not a number ");
+        .expect("Index entered was not a number ");
 
     let element = w[index];
 
     println!("The value of the element at index {index} is: {element}");
 }
 
-fn a_function() {
-    println!("Hello, Universe!");
-}
+fn a_function() { println!("Hello, Universe!"); }
 
-fn another_function(x: i32) {
-    println!("The value of x is: {x}");
-}
+fn another_function(x: i32) { println!("The value of x is: {x}"); }
 
-fn print_labled_measurement(value: i32, unit_label: char) {
-    println!("The measurement is: {value}{unit_label}");
-}
+fn print_labled_measurement(value: i32, unit_label: char) { println!("The measurement is: {value}{unit_label}"); }
 
 fn why() {
     let yy = 66;
     println!("The result of yy is: {yy}");
 }
 
-fn five() -> i32 {
-    5
-}
+fn five() -> i32 { 5 }
 
-fn plus_one(x: i32) -> i32 {
-    x + 1
-}
+fn plus_one(x: i32) -> i32 { x + 1 }
 
 fn control_flow() {
     let number_three = 3;
@@ -237,16 +219,13 @@ fn loopty_loop_break() {
             }
             remaining -= 1;
         }
-
         count += 1;
     }
-
     println!("End count = {count}");
 }
 
 fn a_streaming_loop_here_a_streaming_loop_there() {
     let mut number = 3;
-
     while number != 0 {
         println!("{number}");
         number -= 1;
@@ -257,7 +236,6 @@ fn a_streaming_loop_here_a_streaming_loop_there() {
 fn wait_a_loopin_minute() {
     let a = [10, 20, 30, 40, 50];
     let mut index = 0;
-
     while index < 5 {
         println!("The value is: {}", a[index]);
         index += 1;
@@ -266,7 +244,6 @@ fn wait_a_loopin_minute() {
 
 fn ahh_a_loop() {
     let a = [10, 20, 30, 40, 50];
-
     for element in a {
         println!("The value is: {element}");
     }
