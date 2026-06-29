@@ -111,7 +111,7 @@ fn array_types() {
     let _q = [3; 5];
     let months = ["January", "February", "March", "April", "May", "June", "July",
                    "August", "September", "October", "November", "December"];
-    println!("My birth months is {}:", months[8]);
+    println!("My birth month is {}:", months[8]);
 
     let w: [i32; 6] = [0, 1, 2, 3, 4, 5];
     let _first = w[0];
